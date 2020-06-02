@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.googlecode.tesseract.android",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "tess-two-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.googlecode.tesseract.android",
+        "split": ""
+      }
+    }
+  ]
+}

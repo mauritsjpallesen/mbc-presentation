@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout android:orientation="vertical" android:layout_height="fill_parent" android:layout_width="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:text="@string/button_text" android:id="@+id/button"/>
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/field" android:hint="@string/text_hint"/>
+    <androidx.appcompat.widget.AppCompatImageView android:layout_width="400dp" android:layout_height="400dp" android:id="@+id/image" android:layout_gravity="bottom"/>
+</LinearLayout>
